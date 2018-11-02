@@ -32,3 +32,4 @@ def write_out(path,type = 'train'):
 
 write_out('/Users/yingliu/PycharmProjects/Seq2SeqSemantic/data/d2_train_out.txt')
 write_out('/Users/yingliu/PycharmProjects/Seq2SeqSemantic/data/d2_valid_out.txt', type = 'val')
+print("Done.")
